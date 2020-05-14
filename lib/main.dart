@@ -22,7 +22,7 @@ class _HomeState extends State<Home> {
           _people+=qnt;
           texto = "Pode Entrar";
         }else{
-          texto = "Não cabe";
+          texto = "Não tem quem tirar";
         }
       }else{
         _people+=qnt;
